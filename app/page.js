@@ -1,7 +1,7 @@
 'use client';
 import { useState } from 'react';
 
-export default function Home() {
+export default function Page() {
   const [input, setInput] = useState('');
   const [error, setError] = useState('');
   const [result, setResult] = useState(0);
