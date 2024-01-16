@@ -1,4 +1,4 @@
-# recursiveFactorial
+# RecursiveFactorial
 
 Brief project description here.
 
